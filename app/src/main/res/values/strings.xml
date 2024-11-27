@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <string name="txtNombre">Mi nombre es:</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="base">Base: </string>
+    <string name="altura">Altura: </string>
+    <string name="area">Area: </string>
+    <string name="perimetro">Perimetro: </string>
+    <string name="btnSalir">Salir</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnCerrar">Cerrar</string>
+    <string name="btnLimpiar">Limpiar</string>
+
+</resources>
